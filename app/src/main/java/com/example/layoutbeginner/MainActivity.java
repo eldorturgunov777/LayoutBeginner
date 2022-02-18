@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+
     public void task3(View view) {
         Intent intent = new Intent(this, ThreeActivity.class);
         startActivity(intent);
